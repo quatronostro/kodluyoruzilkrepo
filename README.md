@@ -12,7 +12,7 @@ Bu repo Kodluyoruz Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet RE
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone "https://github.com/quatronostro/kodluyoruzilkrepo.git"
 ```
 
 ## Usage
